@@ -1,0 +1,16 @@
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-image
+scikit-learn
+tqdm
+mediapipe
+tensorflow
+keras-vggface
+keras-applications
+protobuf
+seaborn
+kagglehub
+nbformat
+nbclient
